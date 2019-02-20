@@ -1,0 +1,23 @@
+{
+  "name": "dependency-mock-example",
+  "version": "1.0.0",
+  "description": "this is an example of mocking dependencies in node using sinon",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mock",
+    "dependency",
+    "node",
+    "sinon",
+    "tdd"
+  ],
+  "author": "wilson",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.0",
+    "sinon": "^7.2.4"
+  }
+}
